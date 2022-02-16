@@ -1,0 +1,5 @@
+names:
+- drone
+nc: 1
+train: /content/drive/MyDrive/datasets/drone-detection-1/train/images
+val: /content/drive/MyDrive/datasets/drone-detection-1/valid/images
