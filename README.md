@@ -24,6 +24,6 @@ Rotation: Between -30° and +30°
 
 The dataset contains 2465 annotated images with various size, quality and background of drone images for balanced classes and splitted to Training, Validation and Testing sets (2157, 206 and 102 respectively).
 
-The images saved in Yolov5 format (/images as .jpg and  /labels as .txt)
+The images saved in Yolov5 structure (/images as .jpg and  /labels as .txt)
 
 Free to download, use and edit.
